@@ -176,7 +176,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parenthesis.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
@@ -208,13 +208,13 @@ Our competitive programming lists are not as strict about these exclusions. The 
 
 We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
 
-- it has an ISBN (International Standard Book Number)
-- it has a Table of Contents
-- a downloadable version is offered, especially ePub files.
-- it has editions
-- it doesn't depend on interactive content or videos
-- it tries to comprehensively cover a topic
-- it's self-contained
+- It has an ISBN (International Standard Book Number)
+- It has a Table of Contents
+- A downloadable version is offered, especially ePub files.
+- It has editions
+- It doesn't depend on interactive content or videos
+- It tries to comprehensively cover a topic
+- It's self-contained
 
 There are lots of books that we list that don't have these attributes; it can depend on context.
 
